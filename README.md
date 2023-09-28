@@ -13,7 +13,7 @@ Demo Link: https://stay-call.vercel.app/
 
 ### Contributing
 
-#### Contributions to this project are highly encouraged! If you'd like to contribute by fixing bugs, adding features, or improving the overall codebase, please feel free to fork this repository, make your changes, and submit a pull request. We welcome your contributions and ideas to help make this Airbnb clone even better.
+Contributions to this project are highly encouraged! If you'd like to contribute by fixing bugs, adding features, or improving the overall codebase, please feel free to fork this repository, make your changes, and submit a pull request. We welcome your contributions and ideas to help make this Airbnb clone even better.
 
 ## Images for reference:
 ### Login/Signup [Email-Pass/Google/Github]
